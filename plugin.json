@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-sso-oauth",
-	"name": "NodeBB OAuth SSO",
-	"description": "NodeBB Plugin that allows users to login/register via any configured OAuth provider.",
-	"url": "https://github.com/julianlam/nodebb-plugin-sso-oauth",
+	"id": "nodebb-plugin-ims-lti",
+	"name": "NodeBB IMS-LTI",
+	"description": "NodeBB Plugin that allows users to login/register via any configured OAuth provider IMS-LTI.",
+	"url": "https://github.com/jsanchezramos/nodebb-plugin-ims-lti",
 	"library": "./library.js",
 	"hooks": [
 		{ "hook": "action:app.load", "method": "init" },

@@ -1,11 +1,11 @@
 {
   "name": "nodebb-plugin-sso-oauth",
-  "version": "0.1.2",
-  "description": "NodeBB Generic OAuth SSO",
+  "version": "0.1.1",
+  "description": "NodeBB OAuth SSO IMS-LTI",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/julianlam/nodebb-plugin-sso-oauth"
+    "url": "https://github.com/jsanchezramos/nodebb-plugin-ims-lti"
   },
   "keywords": [
     "nodebb",
@@ -13,15 +13,16 @@
     "oauth",
     "sso",
     "single sign on",
+    "IMS-LTI",
     "registration"
   ],
   "author": {
-    "name": "Julian Lam",
-    "email": "julian@nodebb.org"
+    "name": "Juan Francisco Sánchez Ramos",
+    "email": "jsanchezramos@uoc.edu"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/julianlam/nodebb-plugin-sso-oauth/issues"
+    "url": "https://github.com/jsanchezramos/nodebb-plugin-ims-lti/issues"
   },
   "readme": "",
   "readmeFilename": "README.md",
